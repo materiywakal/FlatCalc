@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3e405fb4e0f105b4bb10664d79fc2d12
+timeCreated: 1513972294
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Echoes Sans
+  fontNames:
+  - Echoes Sans
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
